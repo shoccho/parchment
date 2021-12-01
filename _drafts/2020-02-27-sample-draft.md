@@ -6,3 +6,5 @@ tags: [WIP]
 ---
 
 Once the draft is complete, it should be moved to `_posts/` directory to see it on the blog
+<!-- to add an image -->
+<!-- <img class="profile-picture" src="{{site.baseurl}}/{{site.profile-picture}}"> -->
